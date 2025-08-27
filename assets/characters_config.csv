@@ -1,0 +1,7 @@
+id,code,display_name,style,description,atk,def,hp,icon_path,sprite_path,PreviewImage
+1,kate,黃巧君Fight!,平衡型,我是凱特，攻防兼備,100,30,500,assets/images/characters/kate/sprites/menu.png,assets/images/characters/kate/sprites/warrior.png,assets/images/characters/kate/sprites/PreviewImage.png
+2,patty,可以幫我的角色名字改成水噹噹少女嗎,攻擊型,高攻擊力角色,100,20,500,assets/images/characters/patty/sprites/menu.png,assets/images/characters/patty/sprites/warrior.png,assets/images/characters/patty/sprites/PreviewImage.png
+3,ian,你說你的名字要叫什麼我都行,平衡型,平衡型角色,120,20,500,assets/images/characters/ian/sprites/menu.png,assets/images/characters/ian/sprites/warrior.png,assets/images/characters/ian/sprites/PreviewImage.png
+4,chin,歡迎進來小陳家裡坐坐(拜託不要選我),攻擊型,高攻擊力角色,180,25,500,assets/images/characters/chin/sprites/menu.png,assets/images/characters/chin/sprites/warrior.png,assets/images/characters/chin/sprites/PreviewImage.png
+5,joshson,叫害羞的強森或住海邊就好了不要加海男,防禦型,高防禦力角色,180,25,500,assets/images/characters/joshson/sprites/menu.png,assets/images/characters/joshson/sprites/warrior.png,assets/images/characters/joshson/sprites/PreviewImage.png
+6,x,X,全能型,最強角色,30,25,500,assets/images/characters/x/sprites/menu.png,assets/images/characters/x/sprites/warrior.png,assets/images/characters/x/sprites/PreviewImage.png

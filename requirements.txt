@@ -1,0 +1,29 @@
+# 黃巧君 Fight ! - AI 格鬥遊戲
+# Huang Qiao Jun Fight! - AI Fighting Game
+#
+# 安裝方式 / Installation:
+# 一般使用者: pip install -r requirements.txt
+# General users: pip install -r requirements.txt
+#
+# 開發者如需完整工具鏈，請安裝: pip install -r requirements-dev.txt
+# Developers who need full toolchain: pip install -r requirements-dev.txt
+
+# Core dependencies
+pygame>=2.5.0
+pygame[font]>=2.5.0
+
+# AI Model dependencies (removed Hugging Face)
+# transformers>=4.30.0
+# torch>=2.0.0
+
+# AWS Bedrock integration
+boto3>=1.34.0
+botocore>=1.34.0
+
+# System introspection (model selection hints)
+psutil>=5.9.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
